@@ -4,7 +4,7 @@ ul {
   list-style-type: none;
 }
 
-html {
+body {
   font-family: "Roboto";
   font-weight: 700;
 }
@@ -27,7 +27,7 @@ html {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.16;
   letter-spacing: 0.02em;
   color: #212121;
   text-decoration: none;
@@ -106,7 +106,7 @@ html {
   font-family: "Roboto";
   font-weight: 400;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.16;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -115,7 +115,7 @@ html {
   font-family: "Roboto";
   font-weight: 400;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.16;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   cursor: pointer;
